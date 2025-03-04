@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "m.mongo.host",
+    "type": "java.lang.String",
+    "description": "A description for 'm.mongo.host'"
+  },
+  {
+    "name": "m.mongo.database",
+    "type": "java.lang.String",
+    "description": "A description for 'm.mongo.database'"
+  },
+  {
+    "name": "m.mongo.port",
+    "type": "java.lang.String",
+    "description": "A description for 'm.mongo.port'"
+  },
+  {
+    "name": "secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'secretKey'"
+  },
+  {
+    "name": "iss",
+    "type": "java.lang.String",
+    "description": "A description for 'iss'"
+  },
+  {
+    "name": "tokenExpireNo",
+    "type": "java.lang.String",
+    "description": "A description for 'tokenExpireNo'"
+  },
+  {
+    "name": "tokenExpireNo",
+    "type": "java.lang.String",
+    "description": "A description for 'tokenExpireNo'"
+  },
+  {
+    "name": "tokenExpireNo",
+    "type": "java.lang.String",
+    "description": "A description for 'tokenExpireNo'"
+  },
+  {
+    "name": "tokenExpireNo",
+    "type": "java.lang.String",
+    "description": "A description for 'tokenExpireNo'"
+  },
+  {
+    "name": "secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'secretKey'"
+  },
+  {
+    "name": "mongoAtlasURI",
+    "type": "java.lang.String",
+    "description": "A description for 'mongoAtlasURI'"
+  }
+]}
